@@ -1,3 +1,6 @@
+#This script is written using Python 2
+#This allows you to use a list to add values to it, delete, and move. It also allows you to stop. 
+
 def main():
     while True:
         clear_screen()
